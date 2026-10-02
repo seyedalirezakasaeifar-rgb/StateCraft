@@ -1,0 +1,4 @@
+// Top-level build file. Statecraft uses no third-party libraries — only the Android Gradle Plugin.
+plugins {
+    id 'com.android.application' version '8.2.2' apply false
+}
